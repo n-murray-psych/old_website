@@ -1,2 +1,2 @@
-title: Posts
+title: posts
 type: page
