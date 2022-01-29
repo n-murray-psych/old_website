@@ -1,52 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc, Combined Honours in Psychology and Philosophy
+    institution: Dalhousie University
+    year: 2022
+
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical psychology
+- Cognitive science
+- Psychiatry
+- Metaphysics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Dalhousie University
+  url: https://www.dal.ca/
+role: Honours Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:n.murray@dal.ca 
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/nickmpsych
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/n-murray-psych
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://ca.linkedin.com/in/n-murray
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Nicholas Murray
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicholas Murray is a student at Dalhousie University pursuing a Combined Honours in Psychology and Philosophy ('22). Under the supervision of Dr. Raymond Klein and PhD student Richard Drake, Nicholas's honours project aims to discover what mode of visual attention controls the orienting response to gaze cues. His honours project is titled, "Is Gaze-Cuing More Like Endogenous or Exogenous Orienting?"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the Fall of 2022, Nicholas will join the Masters in Psychiatry Research program at Dalhousie University. Under the supervision of Dr. Sandra Meier and Dr. JianLi Wang, Nicholas will study the effects of social media use on mental health in youth. 
+
+Currently, Nicholas is the Editor-in-Chief of the Canadian Positive Psychology Association's student blog on Medium, [_CPPA Students_](https://cppastudents.medium.com/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
