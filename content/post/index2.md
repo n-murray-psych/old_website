@@ -1,2 +1,0 @@
-title: posts
-type: page
