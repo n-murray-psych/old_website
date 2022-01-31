@@ -1,16 +1,16 @@
 ---
-title: Why It's Good to Discipline for Lying
+title: Why It's Good to Discipline Children for Lying
 author: R package build
-date: '2022-01-29'
+date: '2021-06-16'
 slug: my-first-post
-categories: []
-tags: []
+categories: [psychology, philosophy]
+tags: [psychology, philosophy]
 subtitle: ''
 summary: ''
 authors: [Nicholas Murray]
 lastmod: '2021-06-16T01:21:08-04:00'
 featured: no
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: no
@@ -53,4 +53,3 @@ I think we should expand the concept of ToM into these three stages to avoid usi
 Thank you for reading. I hope you’ve enjoyed the ramblings of this undergraduate. 
 
 Nicholas Murray
-
